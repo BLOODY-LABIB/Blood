@@ -1,4 +1,4 @@
-This Is A Tool where you can get whatecer you want about cloning and cracking.
+This Is A Tool where you can get whatever you want about cloning and cracking.
 
 
 Installation In Termux↓
